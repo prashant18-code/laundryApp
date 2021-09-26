@@ -1,0 +1,7 @@
+{
+  "name": "brightNok",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
